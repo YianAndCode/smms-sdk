@@ -1,0 +1,17 @@
+{
+    "name": "yian/smms-sdk",
+    "description": "A SDK for https://sm.ms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Y!an",
+            "email": "i@yian.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SmMs\\": "src/"
+        }
+    }
+}
